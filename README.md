@@ -1,0 +1,2 @@
+# TabladeMultiplicar
+Proyecto en C++ que genera e imprime las tablas de multiplicar del 1 al 10 utilizando pilas y colas. Para ello, anido una pila dentro de una cola: utilizo una clase llamada Fila, que tiene un identificador embedido y una pila con los números del 1 al 10, y luego creo una cola con 10 filas que tengan identificadores del 1 al 10. Luego, el programa pide al usuario que introduzca un número, e imprime la tabla de multiplicar elegida desde la anidación de pila y cola.
